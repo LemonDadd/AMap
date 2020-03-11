@@ -1,0 +1,11 @@
+platform :ios, '9.0'
+
+target 'AMapDemo' do
+  pod 'AFNetworking'#网络处理
+  pod 'SDWebImage'
+  pod 'Masonry'
+  pod 'AMapSearch'
+  pod 'AMapLocation'
+  pod 'AMapNavi'
+  pod 'MJExtension'
+end
